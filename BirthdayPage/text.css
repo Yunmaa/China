@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+ 
+.text-wrapper{
+    width: 100%;
+    position: relative;
+}
+
+.text-wrapper h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 10vw;
+    font-family: 'Edu TAS Beginner', cursive;
+}
